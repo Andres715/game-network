@@ -42,13 +42,6 @@
     }
 }
 
-@media screen and (max-height: 600px) {
-    #home {
-        height: 100vh;
-    }
-}
-
-
 /* WIDTH */
 
 @media screen and (max-width: 1200px) {
