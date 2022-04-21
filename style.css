@@ -275,6 +275,7 @@ main {
 }
 
 #home>div #first-home>p>span {
+    text-align: center;
     color: var(--color-text-orange);
 }
 
